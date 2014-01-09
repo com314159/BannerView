@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_grid_item">#fff7f7f7</color>
+    <color name="list_item_bg_color_pressed">#ffebebeb</color>
+    <color name="divider_color_grid">#ffe2e3e3</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="aid_tab_blue">#00A2FF</color>
+    <color name="aid_app_detail_gray">#A7A7A7</color>
+    <color name="bannerview_background">#14079702</color>
+</resources>

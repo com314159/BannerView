@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/divider_color_grid"
+    >
+    <com.banner.InfiniteViewPager 
+        android:layout_marginLeft="@dimen/bannerview_pagerView_margin"
+        android:layout_marginRight="@dimen/bannerview_pagerView_margin"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:id="@+id/bannerview_viewpager"
+        >
+        
+    </com.banner.InfiniteViewPager>
+</LinearLayout>

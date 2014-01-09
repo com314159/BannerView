@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- App item layout -->
+    <dimen name="appitemlayout_width">270dp</dimen>
+    <dimen name="appitemlayout_height">90dp</dimen>
+    <dimen name="appitemlayout_margin">5dp</dimen>
+    <dimen name="appitemlayout_imgview_width">72dp</dimen>
+    <dimen name="appitemlayout_imgview_margin">5dp</dimen>
+    <dimen name="appitemlayout_appnametext_size">18sp</dimen>
+    <dimen name="appitemlayout_appinfotext_size">15sp</dimen>
+    <dimen name="appitemlayout_viewline_width">1sp</dimen>
+    
+<!--     viewpager_and_indicator layout -->
+    <dimen name="vai_layout_height">400dp</dimen>
+    <dimen name="vai_viewpage_height">370dp</dimen>
+   
+<!--     viewpager_grid layout -->
+	<dimen name="vg_grid_divider_thickness">1.0dip</dimen>
+    
+<!--     app_dialog_layout -->
+	<dimen name="aid_txt_margin_top">2dp</dimen>
+	<dimen name="aid_tab_button_width">100dp</dimen>
+	<dimen name="aid_tab_button_height">40dp</dimen>
+	<dimen name="aid_tab_width">140dp</dimen>
+	
+<!-- 	banner view -->
+    <dimen name="bannerview_pagerView_margin">15dp</dimen>
+    <dimen name="bannerview_item_margin">20dp</dimen>
+</resources>
