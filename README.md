@@ -7,3 +7,7 @@ android bannerview, can set picture size that should show
 
 this is my blog
 http://blog.csdn.net/com314159/article/details/18036677
+
+
+Note:
+use android recyclerview will easier to implement this effect.
